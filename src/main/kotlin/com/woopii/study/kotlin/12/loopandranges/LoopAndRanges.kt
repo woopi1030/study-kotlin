@@ -1,4 +1,4 @@
-package src.main.kotlin.com.woopii.study.kotlin.`7`.loopandranges
+package src.main.kotlin.com.woopii.study.kotlin.`12`.loopandranges
 
 fun main() {
     for (i in 1..3) {
